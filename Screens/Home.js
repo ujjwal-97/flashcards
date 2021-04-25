@@ -54,6 +54,7 @@ const styles = StyleSheet.create({
   container: {
     paddingTop: 60,
     paddingHorizontal: 12,
+    paddingBottom: 60,
   },
   button: {
     position: 'absolute',
